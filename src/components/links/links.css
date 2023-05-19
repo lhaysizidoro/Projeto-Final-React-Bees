@@ -1,0 +1,14 @@
+ul, li a {
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  color: #583a3a;
+  font-size: 30px;
+  font-weight: bold;
+  cursor: pointer;
+  
+ 
+
+}
